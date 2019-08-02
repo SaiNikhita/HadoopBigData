@@ -1,0 +1,11 @@
+BUS,	1
+Bus,	1
+CAR,	1
+Car,	1
+TRAIN	1
+TRAIN,BUS,	1
+buS,	1
+bus,	3
+caR,	1
+car,	4
+train,	2
